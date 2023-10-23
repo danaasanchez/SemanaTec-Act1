@@ -3,6 +3,7 @@
 ### Dana Sanchez A01723361
 ### Sem2 ITC
 ### Javier Lugo
+### Eugenia Uresti
 **bold Semana Tec 12** 
 
 *italicized Desayunos*
