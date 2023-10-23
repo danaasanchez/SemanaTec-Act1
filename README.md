@@ -2,7 +2,7 @@
 ## Act 1 Github 
 ### Dana Sanchez A01723361
 ### Sem2 ITC
-
+### Javier Lugo
 **bold Semana Tec 12** 
 
 *italicized Desayunos*
